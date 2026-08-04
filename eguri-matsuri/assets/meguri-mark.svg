@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="84" height="84" viewBox="0 0 84 84" role="img" aria-label="巡り祭">
+  <rect width="84" height="84" rx="18" fill="#171a18"/>
+  <path d="M42 14c15.5 0 28 12.5 28 28S57.5 70 42 70 14 57.5 14 42" fill="none" stroke="#f8f3e8" stroke-width="7" stroke-linecap="round"/>
+  <path d="M16 42c0-14.4 11.6-26 26-26" fill="none" stroke="#d83b2d" stroke-width="7" stroke-linecap="round"/>
+  <path d="M49 34v18l15-9z" fill="#f8f3e8"/>
+  <circle cx="30" cy="44" r="7" fill="#137a63"/>
+</svg>

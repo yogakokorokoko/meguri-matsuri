@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="640" viewBox="0 0 640 640" role="img" aria-label="渡邉有優美の顔写真を入れる場所">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#d83b2d"/>
+      <stop offset=".56" stop-color="#137a63"/>
+      <stop offset="1" stop-color="#171a18"/>
+    </linearGradient>
+    <clipPath id="circle">
+      <circle cx="320" cy="320" r="230"/>
+    </clipPath>
+  </defs>
+  <rect width="640" height="640" rx="48" fill="url(#bg)"/>
+  <g opacity=".18" fill="none" stroke="#fff" stroke-width="6">
+    <circle cx="120" cy="126" r="78"/>
+    <circle cx="528" cy="520" r="96"/>
+    <path d="M18 452c82-64 168-64 258 0s176 64 346 0"/>
+  </g>
+  <g clip-path="url(#circle)">
+    <circle cx="320" cy="320" r="230" fill="#f6f1e7"/>
+    <circle cx="320" cy="255" r="88" fill="#d8b498"/>
+    <path d="M178 580c16-112 78-178 142-178s126 66 142 178z" fill="#171a18"/>
+    <path d="M226 236c24-88 90-112 154-86 42 17 65 55 70 102-58-20-134-24-224-16z" fill="#2a241e"/>
+    <circle cx="288" cy="268" r="8" fill="#171a18"/>
+    <circle cx="350" cy="268" r="8" fill="#171a18"/>
+    <path d="M292 318c22 18 52 18 74 0" fill="none" stroke="#8d4b3c" stroke-width="10" stroke-linecap="round"/>
+  </g>
+  <rect x="164" y="528" width="312" height="58" rx="29" fill="#fff" opacity=".92"/>
+  <text x="320" y="565" text-anchor="middle" font-family="system-ui, sans-serif" font-size="24" font-weight="800" fill="#171a18">写真をここに差し替え</text>
+</svg>
