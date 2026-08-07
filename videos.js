@@ -136,12 +136,12 @@ window.MEGURI_VIDEOS = [
   },
   {
     "member": "18",
-    "name": "追加予定",
-    "series": "予定",
-    "title": "第2弾 追加予定 / 18",
-    "youtubeUrl": "",
-    "note": "これから追加予定",
-    "date": ""
+    "name": "メンバー18",
+    "series": "第2弾",
+    "title": "巡り祭ゲスト：400万著者　舛田光洋さん",
+    "youtubeUrl": "https://www.youtube.com/watch?v=6m2qltGVI3Y",
+    "note": "YouTubeチャンネルから自動追加",
+    "date": "2026-08-06"
   },
   {
     "member": "19",
