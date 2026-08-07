@@ -145,12 +145,12 @@ window.MEGURI_VIDEOS = [
   },
   {
     "member": "19",
-    "name": "追加予定",
-    "series": "予定",
-    "title": "第2弾 追加予定 / 19",
-    "youtubeUrl": "",
-    "note": "これから追加予定",
-    "date": ""
+    "name": "メンバー19",
+    "series": "第2弾",
+    "title": "巡り祭　ゲスト、Ayanoizmさん",
+    "youtubeUrl": "https://www.youtube.com/watch?v=PuR_d0FDPiI",
+    "note": "YouTubeチャンネルから自動追加",
+    "date": "2026-08-07"
   },
   {
     "member": "20",
