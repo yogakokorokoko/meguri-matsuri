@@ -24,7 +24,7 @@ jobs:
         run: node scripts/sync-youtube.js
         env:
           YOUTUBE_CHANNEL_ID: UCTF2K44Nh-80anjyVuCbJxQ
-          YOUTUBE_TITLE_KEYWORDS: 巡り祭
+          YOUTUBE_TITLE_KEYWORDS: ""
 
       - name: Commit updates
         run: |

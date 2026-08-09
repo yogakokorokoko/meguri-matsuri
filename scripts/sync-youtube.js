@@ -5,7 +5,7 @@ const https = require("https");
 const vm = require("vm");
 
 const CHANNEL_ID = process.env.YOUTUBE_CHANNEL_ID || "UCTF2K44Nh-80anjyVuCbJxQ";
-const TITLE_KEYWORDS = (process.env.YOUTUBE_TITLE_KEYWORDS || "巡り祭")
+const TITLE_KEYWORDS = (process.env.YOUTUBE_TITLE_KEYWORDS || "")
   .split(",")
   .map((keyword) => keyword.trim())
   .filter(Boolean);
