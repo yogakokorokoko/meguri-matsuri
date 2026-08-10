@@ -205,5 +205,14 @@ window.MEGURI_VIDEOS = [
     "youtubeUrl": "https://www.youtube.com/watch?v=-Q9R4pdC_sc",
     "note": "YouTubeチャンネルから自動追加",
     "date": "2026-08-09"
+  },
+  {
+    "member": "26",
+    "name": "メンバー26",
+    "series": "第2弾",
+    "title": "巡り祭　ゲスト　 おかざきななさん",
+    "youtubeUrl": "https://www.youtube.com/watch?v=2chf-S9mBRA",
+    "note": "YouTubeチャンネルから自動追加",
+    "date": "2026-08-10"
   }
 ];
