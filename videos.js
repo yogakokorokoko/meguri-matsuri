@@ -214,5 +214,14 @@ window.MEGURI_VIDEOS = [
     "youtubeUrl": "https://www.youtube.com/watch?v=2chf-S9mBRA",
     "note": "YouTubeチャンネルから自動追加",
     "date": "2026-08-10"
+  },
+  {
+    "member": "27",
+    "name": "メンバー27",
+    "series": "第2弾",
+    "title": "巡り祭 ゲスト：岡崎かつひろさん",
+    "youtubeUrl": "https://www.youtube.com/watch?v=JHrGCVEK2jM",
+    "note": "YouTubeチャンネルから自動追加",
+    "date": "2026-08-11"
   }
 ];
