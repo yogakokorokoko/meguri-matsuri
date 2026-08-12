@@ -223,5 +223,14 @@ window.MEGURI_VIDEOS = [
     "youtubeUrl": "https://www.youtube.com/watch?v=JHrGCVEK2jM",
     "note": "YouTubeチャンネルから自動追加",
     "date": "2026-08-11"
+  },
+  {
+    "member": "28",
+    "name": "メンバー28",
+    "series": "第2弾",
+    "title": "巡り祭　ゲスト：大坪拓摩さん",
+    "youtubeUrl": "https://www.youtube.com/watch?v=kruSn6_WMWw",
+    "note": "YouTubeチャンネルから自動追加",
+    "date": "2026-08-12"
   }
 ];
