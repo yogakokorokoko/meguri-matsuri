@@ -259,5 +259,14 @@ window.MEGURI_VIDEOS = [
     "youtubeUrl": "https://www.youtube.com/watch?v=6Mb0GTXm2wc",
     "note": "YouTubeチャンネルから自動追加",
     "date": "2026-08-14"
+  },
+  {
+    "member": "32",
+    "name": "メンバー32",
+    "series": "第2弾",
+    "title": "巡り祭　ゲスト 　末吉宏巨さん",
+    "youtubeUrl": "https://www.youtube.com/watch?v=Y3erTvE4mgA",
+    "note": "YouTubeチャンネルから自動追加",
+    "date": "2026-08-15"
   }
 ];
