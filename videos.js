@@ -268,5 +268,14 @@ window.MEGURI_VIDEOS = [
     "youtubeUrl": "https://www.youtube.com/watch?v=Y3erTvE4mgA",
     "note": "YouTubeチャンネルから自動追加",
     "date": "2026-08-15"
+  },
+  {
+    "member": "33",
+    "name": "メンバー33",
+    "series": "第2弾",
+    "title": "巡り祭 　ゲスト：高田洋平さん",
+    "youtubeUrl": "https://www.youtube.com/watch?v=w6A9vlv3JbM",
+    "note": "YouTubeチャンネルから自動追加",
+    "date": "2026-08-16"
   }
 ];
