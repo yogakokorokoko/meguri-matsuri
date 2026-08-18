@@ -295,5 +295,23 @@ window.MEGURI_VIDEOS = [
     "youtubeUrl": "https://www.youtube.com/watch?v=lwO-TMfkkFw",
     "note": "YouTubeチャンネルから自動追加",
     "date": "2026-08-17"
+  },
+  {
+    "member": "36",
+    "name": "メンバー36",
+    "series": "第2弾",
+    "title": "マレーシアの新ランドマークタワー　ムルデカ118で世界一美味しいミルフィーユを食べてきた",
+    "youtubeUrl": "https://www.youtube.com/watch?v=ypLukvfWLrw",
+    "note": "YouTubeチャンネルから自動追加",
+    "date": "2026-08-18"
+  },
+  {
+    "member": "37",
+    "name": "メンバー37",
+    "series": "第2弾",
+    "title": "巡り祭　ゲスト 　吉井雅之さん（ナニメンさん）",
+    "youtubeUrl": "https://www.youtube.com/watch?v=fHowtn9FTAA",
+    "note": "YouTubeチャンネルから自動追加",
+    "date": "2026-08-18"
   }
 ];
