@@ -313,5 +313,14 @@ window.MEGURI_VIDEOS = [
     "youtubeUrl": "https://www.youtube.com/watch?v=fHowtn9FTAA",
     "note": "YouTubeチャンネルから自動追加",
     "date": "2026-08-18"
+  },
+  {
+    "member": "38",
+    "name": "メンバー38",
+    "series": "第2弾",
+    "title": "巡り祭　ゲスト　 元吉本芸人、整体師　松本先生",
+    "youtubeUrl": "https://www.youtube.com/watch?v=Zd8yCb1wUVk",
+    "note": "YouTubeチャンネルから自動追加",
+    "date": "2026-08-19"
   }
 ];
