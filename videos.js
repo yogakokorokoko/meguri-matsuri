@@ -331,5 +331,23 @@ window.MEGURI_VIDEOS = [
     "youtubeUrl": "https://www.youtube.com/watch?v=aXM60l4KAQc",
     "note": "YouTubeチャンネルから自動追加",
     "date": "2026-08-20"
+  },
+  {
+    "member": "40",
+    "name": "メンバー40",
+    "series": "第2弾",
+    "title": "お金が貯まる人だけがやっている、休日の7つの過ごし方",
+    "youtubeUrl": "https://www.youtube.com/watch?v=3iGgM6xcrfw",
+    "note": "YouTubeチャンネルから自動追加",
+    "date": "2026-08-22"
+  },
+  {
+    "member": "41",
+    "name": "メンバー41",
+    "series": "第2弾",
+    "title": "巡り祭　ゲスト　すがじんさん",
+    "youtubeUrl": "https://www.youtube.com/watch?v=dj7YB7lPfSI",
+    "note": "YouTubeチャンネルから自動追加",
+    "date": "2026-08-22"
   }
 ];
