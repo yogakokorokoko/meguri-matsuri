@@ -349,5 +349,14 @@ window.MEGURI_VIDEOS = [
     "youtubeUrl": "https://www.youtube.com/watch?v=dj7YB7lPfSI",
     "note": "YouTubeチャンネルから自動追加",
     "date": "2026-08-22"
+  },
+  {
+    "member": "42",
+    "name": "メンバー42",
+    "series": "第2弾",
+    "title": "巡り祭　ゲスト　玄海祥太さん",
+    "youtubeUrl": "https://www.youtube.com/watch?v=_qhf4t1U5i4",
+    "note": "YouTubeチャンネルから自動追加",
+    "date": "2026-08-23"
   }
 ];
