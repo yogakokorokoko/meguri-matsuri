@@ -358,5 +358,23 @@ window.MEGURI_VIDEOS = [
     "youtubeUrl": "https://www.youtube.com/watch?v=_qhf4t1U5i4",
     "note": "YouTubeチャンネルから自動追加",
     "date": "2026-08-23"
+  },
+  {
+    "member": "43",
+    "name": "メンバー43",
+    "series": "第2弾",
+    "title": "巡り塾振り返りインタビュー",
+    "youtubeUrl": "https://www.youtube.com/watch?v=UuqDLTmsiZ0",
+    "note": "YouTubeチャンネルから自動追加",
+    "date": "2026-08-24"
+  },
+  {
+    "member": "44",
+    "name": "メンバー44",
+    "series": "第2弾",
+    "title": "巡り祭　ゲスト　片岡夕美子さん",
+    "youtubeUrl": "https://www.youtube.com/watch?v=aLPdPP3TSOw",
+    "note": "YouTubeチャンネルから自動追加",
+    "date": "2026-08-24"
   }
 ];
