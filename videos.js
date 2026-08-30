@@ -394,5 +394,50 @@ window.MEGURI_VIDEOS = [
     "youtubeUrl": "https://www.youtube.com/watch?v=KmtrzdVBxok",
     "note": "YouTubeチャンネルから自動追加",
     "date": "2026-08-25"
+  },
+  {
+    "member": "47",
+    "name": "メンバー47",
+    "series": "第2弾",
+    "title": "巡り祭　ゲスト 　武井浩三さん",
+    "youtubeUrl": "https://www.youtube.com/watch?v=avGrGHY-R1o",
+    "note": "YouTubeチャンネルから自動追加",
+    "date": "2026-08-27"
+  },
+  {
+    "member": "48",
+    "name": "メンバー48",
+    "series": "第2弾",
+    "title": "巡り塾振り返りインタビュー",
+    "youtubeUrl": "https://www.youtube.com/watch?v=otPOAjjTKmM",
+    "note": "YouTubeチャンネルから自動追加",
+    "date": "2026-08-27"
+  },
+  {
+    "member": "49",
+    "name": "メンバー49",
+    "series": "第2弾",
+    "title": "巡り祭　ゲスト：ケン・ハラクマ先生",
+    "youtubeUrl": "https://www.youtube.com/watch?v=bsLJPOInDso",
+    "note": "YouTubeチャンネルから自動追加",
+    "date": "2026-08-28"
+  },
+  {
+    "member": "50",
+    "name": "メンバー50",
+    "series": "第2弾",
+    "title": "巡り祭  ゲスト  崎本正俊さん",
+    "youtubeUrl": "https://www.youtube.com/watch?v=xht6ZfeIxdU",
+    "note": "YouTubeチャンネルから自動追加",
+    "date": "2026-08-29"
+  },
+  {
+    "member": "51",
+    "name": "メンバー51",
+    "series": "第2弾",
+    "title": "巡り祭    ゲスト   白鳥マキさん",
+    "youtubeUrl": "https://www.youtube.com/watch?v=4NfKG6xoElE",
+    "note": "YouTubeチャンネルから自動追加",
+    "date": "2026-08-29"
   }
 ];
