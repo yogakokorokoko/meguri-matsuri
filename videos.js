@@ -466,5 +466,14 @@ window.MEGURI_VIDEOS = [
     "youtubeUrl": "https://www.youtube.com/watch?v=DEiJf-wFB8M",
     "note": "YouTubeチャンネルから自動追加",
     "date": "2026-09-01"
+  },
+  {
+    "member": "55",
+    "name": "メンバー55",
+    "series": "第2弾",
+    "title": "巡り祭　ゲスト 　今井孝さん",
+    "youtubeUrl": "https://www.youtube.com/watch?v=Uc80yePNy8U",
+    "note": "YouTubeチャンネルから自動追加",
+    "date": "2026-09-02"
   }
 ];
