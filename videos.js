@@ -502,5 +502,14 @@ window.MEGURI_VIDEOS = [
     "youtubeUrl": "https://www.youtube.com/watch?v=TZJ_vzTHXLU",
     "note": "YouTubeチャンネルから自動追加",
     "date": "2026-09-15"
+  },
+  {
+    "member": "59",
+    "name": "メンバー59",
+    "series": "第2弾",
+    "title": "もし、夢があるなら行動するのみ！！",
+    "youtubeUrl": "https://www.youtube.com/watch?v=0KnJQv1ZtMo",
+    "note": "YouTubeチャンネルから自動追加",
+    "date": "2026-09-25"
   }
 ];
