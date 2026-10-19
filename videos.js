@@ -520,5 +520,14 @@ window.MEGURI_VIDEOS = [
     "youtubeUrl": "https://www.youtube.com/watch?v=4woyrMQjdEs",
     "note": "YouTubeチャンネルから自動追加",
     "date": "2026-10-16"
+  },
+  {
+    "member": "61",
+    "name": "メンバー61",
+    "series": "第2弾",
+    "title": "巡り祭　白川義人さん",
+    "youtubeUrl": "https://www.youtube.com/watch?v=JSvYM4IQwVw",
+    "note": "YouTubeチャンネルから自動追加",
+    "date": "2026-10-18"
   }
 ];
