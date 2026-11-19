@@ -736,5 +736,32 @@ window.MEGURI_VIDEOS = [
     "youtubeUrl": "https://www.youtube.com/watch?v=vm1kl9LgmHE",
     "note": "YouTubeチャンネルから自動追加",
     "date": "2026-11-18"
+  },
+  {
+    "member": "85",
+    "name": "メンバー85",
+    "series": "第2弾",
+    "title": "片付けたのに、また散らかる理由|怖すぎる、とりあえず椅子の法則",
+    "youtubeUrl": "https://www.youtube.com/watch?v=5o04puG5zuM",
+    "note": "YouTubeチャンネルから自動追加",
+    "date": "2026-11-18"
+  },
+  {
+    "member": "86",
+    "name": "メンバー86",
+    "series": "第2弾",
+    "title": "お願いが通らない日の、心の置きどころ",
+    "youtubeUrl": "https://www.youtube.com/watch?v=dWmyCAhVYLs",
+    "note": "YouTubeチャンネルから自動追加",
+    "date": "2026-11-18"
+  },
+  {
+    "member": "87",
+    "name": "メンバー87",
+    "series": "第2弾",
+    "title": "お金が貯まる人がこっそり続けている9つの習慣|がんばらない貯金",
+    "youtubeUrl": "https://www.youtube.com/watch?v=-2vcWlBeQBc",
+    "note": "YouTubeチャンネルから自動追加",
+    "date": "2026-11-18"
   }
 ];
