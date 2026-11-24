@@ -853,5 +853,32 @@ window.MEGURI_VIDEOS = [
     "youtubeUrl": "https://www.youtube.com/watch?v=MeFU5jhl6GI",
     "note": "YouTubeチャンネルから自動追加",
     "date": "2026-11-22"
+  },
+  {
+    "member": "98",
+    "name": "メンバー98",
+    "series": "第2弾",
+    "title": "なぜ毎日がつまらなく感じるのか?心が明るくなる5つの小さな習慣",
+    "youtubeUrl": "https://www.youtube.com/watch?v=lujYV8xcwN8",
+    "note": "YouTubeチャンネルから自動追加",
+    "date": "2026-11-23"
+  },
+  {
+    "member": "99",
+    "name": "メンバー99",
+    "series": "第2弾",
+    "title": "マレーシア🇲🇾生活",
+    "youtubeUrl": "https://www.youtube.com/watch?v=mALjT4dezbQ",
+    "note": "YouTubeチャンネルから自動追加",
+    "date": "2026-11-24"
+  },
+  {
+    "member": "100",
+    "name": "メンバー100",
+    "series": "第2弾",
+    "title": "「やる気が出ない」の正体。無理に動くのをやめた人から心が回復する理由",
+    "youtubeUrl": "https://www.youtube.com/watch?v=w9lYEKU_jSk",
+    "note": "YouTubeチャンネルから自動追加",
+    "date": "2026-11-24"
   }
 ];
