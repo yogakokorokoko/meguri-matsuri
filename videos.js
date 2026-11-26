@@ -880,5 +880,32 @@ window.MEGURI_VIDEOS = [
     "youtubeUrl": "https://www.youtube.com/watch?v=w9lYEKU_jSk",
     "note": "YouTubeチャンネルから自動追加",
     "date": "2026-11-24"
+  },
+  {
+    "member": "101",
+    "name": "メンバー101",
+    "series": "第2弾",
+    "title": "「好きなことほど手がつかない」本当の正体。なぜ好きだから避けてしまうのか",
+    "youtubeUrl": "https://www.youtube.com/watch?v=MP3kaQWwnL4",
+    "note": "YouTubeチャンネルから自動追加",
+    "date": "2026-11-25"
+  },
+  {
+    "member": "102",
+    "name": "メンバー102",
+    "series": "第2弾",
+    "title": "巡り祭",
+    "youtubeUrl": "https://www.youtube.com/watch?v=Ftqpji8wvQs",
+    "note": "YouTubeチャンネルから自動追加",
+    "date": "2026-11-25"
+  },
+  {
+    "member": "103",
+    "name": "メンバー103",
+    "series": "第2弾",
+    "title": "巡り祭　ゲスト　宝来光子さん",
+    "youtubeUrl": "https://www.youtube.com/watch?v=2oRNKEOuzbc",
+    "note": "YouTubeチャンネルから自動追加",
+    "date": "2026-11-25"
   }
 ];
