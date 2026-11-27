@@ -907,5 +907,23 @@ window.MEGURI_VIDEOS = [
     "youtubeUrl": "https://www.youtube.com/watch?v=2oRNKEOuzbc",
     "note": "YouTubeチャンネルから自動追加",
     "date": "2026-11-25"
+  },
+  {
+    "member": "104",
+    "name": "メンバー104",
+    "series": "第2弾",
+    "title": "女神フェス　あゆみかん🍊",
+    "youtubeUrl": "https://www.youtube.com/watch?v=DSlY3kfOFxo",
+    "note": "YouTubeチャンネルから自動追加",
+    "date": "2026-11-26"
+  },
+  {
+    "member": "105",
+    "name": "メンバー105",
+    "series": "第2弾",
+    "title": "巡り祭　ゲスト　片岡夕美子さん",
+    "youtubeUrl": "https://www.youtube.com/watch?v=EF-aTdEI1zs",
+    "note": "YouTubeチャンネルから自動追加",
+    "date": "2026-11-26"
   }
 ];
